@@ -18,6 +18,7 @@ IoT – NPTEL (Score: 80%)
 * Financial Data Analysis-Built with Excel & Power BI which includes data cleaning ,trend analysis, KPIs, and visualization.
 * Loan Data Analysis-Completed a Loan Data Analysis Project using Excel and SQL, where I explored applicant data to study the relationship between income, loan amount, and approval  status. Used SQL for data filtering and aggregation, and Excel for visualizing insights with Pivot chart and formulas like IF to calculate remaining income after loan approval.
 * Wireless EV Charging System (ECE Project) – Applied engineering principles to real-world sustainability.
+* Energy Consumption Dashboard (Power BI)-A dynamic Power BI dashboard visualizing energy consumption data, monthly usage patterns, and insights for efficiency.
 
 <!--
 **nxxhhaaa/nxxhhaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
