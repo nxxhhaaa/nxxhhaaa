@@ -2,14 +2,22 @@
 Hi! I’m Neha, a motivated engineer passionate about data-driven decision making and analytics solutions. I combine my technical background in Electronics & Communication Engineering (ECE) with a growing skill set in Python, Power BI, and Data Visualization to explore how data can solve real-world challenges.
 
 🚀 Tech Stack
-💻 Languages: Python, SQL, MATLAB, C 📊 Data Analytics: Power BI, Excel, Pandas, Matplotlib, Seaborn ☁️ Databases & Tools: Firebase, Google Colab, Jupyter Notebook 🗣️ Languages: English, Malayalam, Basic German
+Languages: Python, SQL, MATLAB, C 
+Data Analytics: Power BI, Excel, Pandas, Matplotlib, Seaborn 
+Databases & Tools: Firebase, Google Colab, Jupyter Notebook 
+Languages: English, Malayalam, Basic German
 
 🌟 Certifications
 Data Analytics – Entri Elevate (2025)
 Data Analytics – University of Illinois (2025)
 Python Programming – TKM College of Engineering (2022)
 IoT – NPTEL (Score: 80%)
-✨ “Turning raw data into meaningful insights and actionable stories.”
+
+ @ Project
+
+* Financial Data Analysis-Built with Excel & Power BI which includes data cleaning ,trend analysis, KPIs, and visualization.
+* Loan Data Analysis-Completed a Loan Data Analysis Project using Excel and SQL, where I explored applicant data to study the relationship between income, loan amount, and approval  status. Used SQL for data filtering and aggregation, and Excel for visualizing insights with Pivot chart and formulas like IF to calculate remaining income after loan approval.
+* Wireless EV Charging System (ECE Project) – Applied engineering principles to real-world sustainability.
 
 <!--
 **nxxhhaaa/nxxhhaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
