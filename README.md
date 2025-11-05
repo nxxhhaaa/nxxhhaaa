@@ -13,7 +13,7 @@ Data Analytics – University of Illinois (2025)
 Python Programming – TKM College of Engineering (2022)
 IoT – NPTEL (Score: 80%)
 
- @ Project
+ 💼 Project
 
 * Financial Data Analysis-Built with Excel & Power BI which includes data cleaning ,trend analysis, KPIs, and visualization.
 * Loan Data Analysis-Completed a Loan Data Analysis Project using Excel and SQL, where I explored applicant data to study the relationship between income, loan amount, and approval  status. Used SQL for data filtering and aggregation, and Excel for visualizing insights with Pivot chart and formulas like IF to calculate remaining income after loan approval.
